@@ -30,6 +30,15 @@ nav {
   font-size: 20px;
 }
 
+.background-image {
+  height: 800px;
+  width: 100%;
+  margin-bottom: 25px;
+  background-image: url("../images/digital-marketing-meeting.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
 ul {
   list-style-type: none;
 }
