@@ -82,11 +82,3 @@ This project is licensed under the MIT License
 ## Acknowledgments
 
 UCB Coding Bootcamp Team
-
-```
-
-```
-
-```
-
-```
